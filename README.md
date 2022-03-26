@@ -8,3 +8,9 @@ Data Science Portfolio
 - The repository name, username, stars and URL of each repository will be retrieved.
 - I'll save the extracted information in a CSV file.
 
+# Project 2: Exploratory Data Analysis - The Framingham Heart Study
+
+- We explore the Framingham Heart Study.
+- Create visual exploratory analysis.
+- Preprocessed the data for ot to be suitable for machine learning
+- Used a Decision Tree Classifier to predict the 10 year risk factors.
