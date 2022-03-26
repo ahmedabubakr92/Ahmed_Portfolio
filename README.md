@@ -8,7 +8,7 @@ Data Science Portfolio
 - The repository name, username, stars and URL of each repository will be retrieved.
 - I'll save the extracted information in a CSV file.
 
-# Project 2: Exploratory Data Analysis - The Framingham Heart Study
+# [Project 2: Exploratory Data Analysis - The Framingham Heart Study](https://github.com/ahmedabubakr92/Ahmed_Portfolio/blob/main/Project%202%20-%20Exploratory%20Data%20Analysis.ipynb)
 
 - We explore the Framingham Heart Study.
 - Create visual exploratory analysis.
