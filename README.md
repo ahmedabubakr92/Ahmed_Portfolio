@@ -15,7 +15,7 @@ Data Science Portfolio
 - Preprocessed the data for ot to be suitable for machine learning
 - Used a Decision Tree Classifier to predict the 10 year risk factors.
 
-# Project 3: Data Visualization - COVID-19 
+# [Project 3: Data Visualization - COVID-19](https://github.com/ahmedabubakr92/Ahmed_Portfolio/blob/main/Project%203%20-%20Data%20Visualization.ipynb.html)
 - We explore the data
 - Data manipulation
 - Dashboard using Plotly
