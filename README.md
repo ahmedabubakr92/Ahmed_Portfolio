@@ -14,3 +14,8 @@ Data Science Portfolio
 - Create visual exploratory analysis.
 - Preprocessed the data for ot to be suitable for machine learning
 - Used a Decision Tree Classifier to predict the 10 year risk factors.
+
+# Project 3: Data Visualization - COVID-19 
+- We explore the data
+- Data manipulation
+- Dashboard using Plotly
