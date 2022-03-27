@@ -19,3 +19,4 @@ Data Science Portfolio
 - We explore the data
 - Data manipulation
 - Dashboard using Plotly
+![Static_Choropleth](https://github.com/ahmedabubakr92/Ahmed_Portfolio/blob/main/static_choropleth.png)
