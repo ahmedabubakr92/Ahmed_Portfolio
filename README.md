@@ -21,3 +21,11 @@ Data Science Portfolio
 - Dashboard using Plotly
 
 ![Static_Choropleth](https://github.com/ahmedabubakr92/Ahmed_Portfolio/blob/main/static_choropleth.png)
+
+# Project 4: Recommendation System - Movies
+- In this project, I've used the TMDB 5000 dataset.
+- Exploratory data analysis.
+- Feature engineering
+- Built a recommedation system using two techniques:
+  * Demographic Filtering.
+  * Content-Based Filtering.   
