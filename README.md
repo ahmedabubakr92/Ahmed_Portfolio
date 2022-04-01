@@ -22,7 +22,7 @@ Data Science Portfolio
 
 ![Static_Choropleth](https://github.com/ahmedabubakr92/Ahmed_Portfolio/blob/main/static_choropleth.png)
 
-# Project 4: Recommendation System - Movies
+# [Project 4: Recommendation System - Movies](https://github.com/ahmedabubakr92/Ahmed_Portfolio/blob/main/Project%204%20-%20Recommendation%20System%20-%20Movies.ipynb)
 - In this project, I've used the TMDB 5000 dataset.
 - Exploratory data analysis.
 - Feature engineering
