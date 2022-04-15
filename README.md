@@ -33,7 +33,7 @@ Data Science Portfolio
   * Demographic Filtering.
   * Content-Based Filtering.   
 
-# Project 5: EDA, Visual EDA, Hypothesis Testing - Marketing Analytics
+# [Project 5: EDA, Visual EDA, Hypothesis Testing - Marketing Analytics](https://github.com/ahmedabubakr92/Ahmed_Portfolio/blob/main/Project%205%20-%20EDA%2C%20Visual%20EDA%2C%20Hypothesis%20Testing%20-%20Marketing%20Analytics.ipynb)
 
 - I've used the Marketing Campaign dataset in [Kaggle](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
 - Data Preprocessing such as exploring the data types, feature engineering, and handling outliers were done.
