@@ -32,3 +32,10 @@ Data Science Portfolio
 - Built a recommedation system using two techniques:
   * Demographic Filtering.
   * Content-Based Filtering.   
+
+# Project 5: EDA, Visual EDA, Hypothesis Testing - Marketing Analytics
+
+- I've used the Marketing Campaign dataset in [Kaggle](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
+- Data Preprocessing such as exploring the data types, feature engineering, and handling outliers were done.
+- Visual exploratory data analysis for better understanding the dataset.
+- Hypothesis testing of different questions formulated about the dataset.
